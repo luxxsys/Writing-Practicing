@@ -1,2 +1,2 @@
-# Writing-Practicing
-Some articles for practicing writing.
+# Writing-Practising
+Recording articles for practising writing especially in Chinese.
